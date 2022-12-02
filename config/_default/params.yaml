@@ -64,7 +64,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -97,7 +97,11 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
-
+# enable the Google-Scholar icon
+icon:
+  pack:
+    ai: true
+    
 # Extensions
 
 extensions:
