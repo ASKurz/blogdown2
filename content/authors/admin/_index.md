@@ -73,4 +73,4 @@ title: A. Solomon Kurz
 
 I am a clinical psychology researcher, currently working to improve the lives of post-deployment veterans. My primary therapeutic orientations are ACT and mindfulness-based interventions. I have had specialty training in the areas of trauma and substance use, but my interests are too broad to consider me a specialist. I also teach statistics and make online resources for data analysis.
 
-{style="text-align: justify;"}
+# {style="text-align: justify;"}
