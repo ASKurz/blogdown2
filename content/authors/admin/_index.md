@@ -65,7 +65,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: uploads/A Solomon Kurz CV
+  link: uploads/A_Solomon_Kurz_CV.pdf
 
 superuser: true
 title: A. Solomon Kurz
