@@ -40,22 +40,22 @@ sections:
     text: null
     username: admin
   id: about
-- block: features
-  content:
-    items:
-    - description: 90%
-      icon: r-project
-      icon_pack: fab
-      name: R
-    - description: 100%
-      icon: chart-line
-      icon_pack: fas
-      name: Statistics
-    - description: 10%
-      icon: camera-retro
-      icon_pack: fas
-      name: Photography
-    title: Skills
+# - block: features
+#   content:
+#     items:
+#     - description: 90%
+#       icon: r-project
+#       icon_pack: fab
+#       name: R
+#     - description: 100%
+#       icon: chart-line
+#       icon_pack: fas
+#       name: Statistics
+#     - description: 10%
+#       icon: camera-retro
+#       icon_pack: fas
+#       name: Photography
+#     title: Skills
 - block: experience
   content:
     date_format: Jan 2006
@@ -138,32 +138,32 @@ sections:
     columns: "2"
     view: compact
   id: posts
-- block: portfolio
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
-    default_button_index: 0
-    filters:
-      folders:
-      - project
-    title: Projects
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects
-- block: markdown
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Gallery
-  design:
-    columns: "1"
+# - block: portfolio
+#   content:
+#     buttons:
+#     - name: All
+#       tag: '*'
+#     - name: Deep Learning
+#       tag: Deep Learning
+#     - name: Other
+#       tag: Demo
+#     default_button_index: 0
+#     filters:
+#       folders:
+#       - project
+#     title: Projects
+#   design:
+#     columns: "1"
+#     flip_alt_rows: false
+#     view: showcase
+#   id: projects
+# - block: markdown
+#   content:
+#     subtitle: ""
+#     text: '{{< gallery album="demo" >}}'
+#     title: Gallery
+#   design:
+#     columns: "1"
 - block: collection
   content:
     filters:
@@ -189,21 +189,21 @@ sections:
   design:
     columns: "2"
     view: citation
-- block: collection
-  content:
-    filters:
-      folders:
-      - event
-    title: Recent & Upcoming Talks
-  design:
-    columns: "2"
-    view: compact
-  id: talks
-- block: tag_cloud
-  content:
-    title: Popular Topics
-  design:
-    columns: "2"
+# - block: collection
+#   content:
+#     filters:
+#       folders:
+#       - event
+#     title: Recent & Upcoming Talks
+#   design:
+#     columns: "2"
+#     view: compact
+#   id: talks
+# - block: tag_cloud
+#   content:
+#     title: Popular Topics
+#   design:
+#     columns: "2"
 - block: contact
   content:
     address:
