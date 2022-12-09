@@ -1,0 +1,76 @@
+---
+# Display name
+name: A. Solomon Kurz
+
+bio:
+
+education:
+  courses:
+  - course: OAA Advanced Postdoctoral Fellow in Mental Illness Research & Treatment
+    institution: VISN 17 Center of Excellence for Research on Returning War Veterans at Central Texas Veterans Healthcare System
+    year: 2020
+  - course: PhD in Clinical Psychology
+    institution: University of Mississippi
+    year: 2018
+  - course: MA in Clinical Psychology
+    institution: University of Mississippi
+    year: 2013
+  - course: BA in Psychology
+    institution: University of Washington
+    year: 2010
+  - course: Diploma
+    institution: Enumclaw High School
+    year: 1998
+
+email: ""
+highlight_name: false
+
+interests:
+- Acceptance and Commitment Therapy
+- Meditation
+- Idiographic Analyses
+- Applied Statistics
+- Methodology
+- Science Reform
+
+organizations:
+- name: VISN 17 Center of Excellence
+  url: https://www.mirecc.va.gov/visn17/
+  role: Clinical Research Psychologist
+
+- name: The Chicago School of Professional Psychology
+  url: https://www.thechicagoschool.edu/learn/los-angeles/?utm_campus=105
+  role: Adjunct Faculty
+  
+social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: /#contact
+
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/SolomonKurz
+  
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=P8JWywQAAAAJ&hl
+
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/2t7j2/
+
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ASKurz
+
+- icon: cv
+  icon_pack: ai
+  link: uploads/A_Solomon_Kurz_CV.pdf
+
+superuser: true
+title: A. Solomon Kurz
+---
+
+I am a clinical psychology researcher, currently working to improve the lives of post-deployment veterans. My primary therapeutic orientations are ACT and mindfulness-based interventions. I have had specialty training in the areas of trauma and substance use, but my interests are too broad to consider me a specialist. I also teach statistics and make online resources for data analysis.
+
+# {style="text-align: justify;"}
